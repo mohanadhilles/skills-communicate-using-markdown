@@ -32,7 +32,7 @@ echo "Hello, World!";
 - [ ] Task 3
 
 
-![Alt text](https://path/to/image.jpg)
+![Alt text](https://images.unsplash.com/photo-1542397284385-6010376c5337?w=800&auto=format&fit=crop&q=60&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxleHBsb3JlLWZlZWR8MXx8fGVufDB8fHx8fA%3D%3D)
 
 
 
@@ -50,4 +50,11 @@ echo "Hello, World!";
    git commit -m "Added headers, task list, and image examples"
    git push origin <your-branch>
 
+
+name: Markdown Preview
+
+on:
+  push:
+    branches:
+      - main
 
