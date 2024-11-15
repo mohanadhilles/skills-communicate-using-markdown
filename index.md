@@ -1,3 +1,5 @@
+
+![Image of Yaktocat](https://octodex.github.com/images/yaktocat.png)
 # Welcome to Communicate using Markdown! 
 
 ## What is Markdown?
